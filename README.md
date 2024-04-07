@@ -8,7 +8,7 @@ Inspired by the widespread use of smartphones, the project aims not just to intr
 Existing Braille keyboard solutions are primarily tailored for iOS, leaving Android users at a disadvantage. The Braille Keyboard project breaks through these limitations, catering to both iOS and Android platforms, expanding accessibility. Beyond traditional Braille keyboards, this project incorporates gestures, transforming it into a comprehensive communication tool. 
 With a focus on a seamless experience, it strives to set a new standard for digital accessibility. Inspired by the concept of a "Guardian Angel," the project aims to be a benevolent force, aiding those inadvertently left behind by rapid technological evolution. By aligning with inclusivity, independence, and accessibility, the Braille Keyboard aspires to empower the visually challenged.
 
-![alt text](https://github.com/ahirema3/SightAid/blob/main/diagram.jpg?raw=true)
+![alt text](./blob/main/diagram.jpg?raw=true)
 
 ## Specifications
 
@@ -32,7 +32,7 @@ With a focus on a seamless experience, it strives to set a new standard for digi
   - Processes Braille button presses and converts them into text.
   - Maps Braille input to appropriate characters based on the button pressed.
  
-![alt text](https://github.com/ahirema3/SightAid/blob/main/UI.png?raw=true)
+![alt text](./blob/main/UI.png?raw=true)
 
 ## Tech Stack
 - *Mobile Framework*: The mobile framework for the Braille Keyboard project is Android Studio. Leveraging the robust development environment provided by Android Studio ensures seamless integration with Android devices, offering a tailored and optimized user experience. 
