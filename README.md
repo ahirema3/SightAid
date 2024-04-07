@@ -11,7 +11,6 @@ With a focus on a seamless experience, it strives to set a new standard for digi
 
 ## Specifications
 
-![alt text](./blob/diagram.jpg?)
 
 
 - *User Interaction*: The user interacts with the mobile application by tapping the Braille buttons or using predefined gestures on the gesture pad.
