@@ -8,9 +8,11 @@ Inspired by the widespread use of smartphones, the project aims not just to intr
 Existing Braille keyboard solutions are primarily tailored for iOS, leaving Android users at a disadvantage. The Braille Keyboard project breaks through these limitations, catering to both iOS and Android platforms, expanding accessibility. Beyond traditional Braille keyboards, this project incorporates gestures, transforming it into a comprehensive communication tool. 
 With a focus on a seamless experience, it strives to set a new standard for digital accessibility. Inspired by the concept of a "Guardian Angel," the project aims to be a benevolent force, aiding those inadvertently left behind by rapid technological evolution. By aligning with inclusivity, independence, and accessibility, the Braille Keyboard aspires to empower the visually challenged.
 
-![alt text](./blob/diagram.jpg?)
 
 ## Specifications
+
+![alt text](./blob/diagram.jpg?)
+
 
 - *User Interaction*: The user interacts with the mobile application by tapping the Braille buttons or using predefined gestures on the gesture pad.
 - *Gesture Recognition*: The Gesture Recognition Module captures and interprets user gestures. 
